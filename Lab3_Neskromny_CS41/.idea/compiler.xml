@@ -9,6 +9,9 @@
         <module name="aqa_lab3" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aqa_lab3" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
